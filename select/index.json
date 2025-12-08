@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ヴィラン",
+  "base_artist": "teniwoha",
+  "createdAt": "2025-12-08T05:43:29.354033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヴィラン (feat. 朝比奈まふゆ&暁山瑞希)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_ヴィラン_(feat._朝比奈まふゆ&暁山瑞希)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヴィラン",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_ヴィラン_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヴィラン",
+      "artist": "25時、ナイトコードで。 feat. 朝比奈まふゆ&暁山瑞希",
+      "has_synced": true,
+      "path": "select/03_ヴィラン_25時、ナイトコードで。_feat._朝比奈まふゆ&暁山瑞希.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヴィラン (feat. v flower)",
+      "artist": "Teniwoha",
+      "has_synced": false,
+      "path": "select/04_ヴィラン_(feat._v_flower)_Teniwoha.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヴィラン",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_ヴィラン_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヴィラン",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/06_ヴィラン_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヴィラン",
+      "artist": "てにをは feat. v flower",
+      "has_synced": true,
+      "path": "select/07_ヴィラン_てにをは_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヴィラン",
+      "artist": "てにをは",
+      "has_synced": true,
+      "path": "select/08_ヴィラン_てにをは.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヴィラン (いよわ アレンジ)",
+      "artist": "てにをは",
+      "has_synced": true,
+      "path": "select/09_ヴィラン_(いよわ_アレンジ)_てにをは.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヴィラン",
+      "artist": "Teniwoha feat. v flower",
+      "has_synced": true,
+      "path": "select/10_ヴィラン_Teniwoha_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヴィラン - villain",
+      "artist": "teniwoha",
+      "has_synced": false,
+      "path": "select/11_ヴィラン_-_villain_teniwoha.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヴィラン",
+      "artist": "Teniwoha",
+      "has_synced": false,
+      "path": "select/12_ヴィラン_Teniwoha.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヴィラン ((album ver.))",
+      "artist": "Teniwoha",
+      "has_synced": true,
+      "path": "select/13_ヴィラン_((album_ver.))_Teniwoha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヴィラン",
+      "artist": "てにをは",
+      "has_synced": false,
+      "path": "select/pl_01_ヴィラン_てにをは.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ヴィラン",
+      "artist": "てにをは",
+      "has_synced": false,
+      "path": "select/pl_02_ヴィラン_てにをは.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ヴィラン",
+      "artist": "てにをは",
+      "has_synced": false,
+      "path": "select/pl_03_ヴィラン_てにをは.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ヴィラン (album ver.)",
+      "artist": "てにをは",
+      "has_synced": false,
+      "path": "select/pl_04_ヴィラン_(album_ver.)_てにをは.txt"
+    }
+  ]
+}
